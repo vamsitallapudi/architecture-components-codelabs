@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+MERGED from [com.android.databinding:adapters:1.3.1] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/adapters-1.3.1.aar/da55c62bbdb1c2a12806e2b7e602e4df/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.databinding:library:1.3.1] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/library-1.3.1.aar/bc0b471610eb864fa463456214661a2d/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:preference-v7:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/bfd0668c40ce1c4a9bdf784828a7efeb/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e949da85f00ac22cb0944bce655bb610/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/818c7f9ff2074948d002264f1bf26716/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/80d2a93366871ba085aea9ef9d771723/AndroidManifest.xml:2:1-11:12
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/92339f32928c4328a343e32c8d8fce8b/AndroidManifest.xml:17:1-42:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5130ee4842c0e534bbb5755191b9656d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/fb6ea0c556cc95e25b1eeed9840a9b3e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/d45e03ccf3f8b024b7e287a684457106/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b6a9fba514e0bf63a8184215dfa1d0cb/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4e415f8b6f69d223d5decec91eb9b21a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fd64a6e6b7ff2c67b0c50b4872ac335c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/412ba1c8a20b06a4cca0c2280b427354/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/eb2676fe13f8dfa2bc7e075c20b70d42/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9d131253e04ee98795d6a02ba955b055/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/9d598a636424be4d94bdb53d2564682d/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/c0bfa9f0233acf46394d2d40c242c787/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.core:runtime:1.0.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/63b3792c5f3242ad539f1f8e63a87193/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/323f1bf3e75a81494ffc6596607a01b2/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+	package
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:19:5-43
+		INJECTED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+		INJECTED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+		INJECTED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:18:5-63
+uses-permission#android.permission.INTERNET
+ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:22:22-64
+application
+ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:24:5-69:19
+MERGED from [com.android.support:preference-v7:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/bfd0668c40ce1c4a9bdf784828a7efeb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:preference-v7:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/bfd0668c40ce1c4a9bdf784828a7efeb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e949da85f00ac22cb0944bce655bb610/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e949da85f00ac22cb0944bce655bb610/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/818c7f9ff2074948d002264f1bf26716/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/818c7f9ff2074948d002264f1bf26716/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/80d2a93366871ba085aea9ef9d771723/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/80d2a93366871ba085aea9ef9d771723/AndroidManifest.xml:9:5-20
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/92339f32928c4328a343e32c8d8fce8b/AndroidManifest.xml:26:5-40:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/92339f32928c4328a343e32c8d8fce8b/AndroidManifest.xml:26:5-40:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/fb6ea0c556cc95e25b1eeed9840a9b3e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/fb6ea0c556cc95e25b1eeed9840a9b3e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/d45e03ccf3f8b024b7e287a684457106/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/d45e03ccf3f8b024b7e287a684457106/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b6a9fba514e0bf63a8184215dfa1d0cb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b6a9fba514e0bf63a8184215dfa1d0cb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4e415f8b6f69d223d5decec91eb9b21a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4e415f8b6f69d223d5decec91eb9b21a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fd64a6e6b7ff2c67b0c50b4872ac335c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fd64a6e6b7ff2c67b0c50b4872ac335c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/412ba1c8a20b06a4cca0c2280b427354/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/412ba1c8a20b06a4cca0c2280b427354/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/eb2676fe13f8dfa2bc7e075c20b70d42/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/eb2676fe13f8dfa2bc7e075c20b70d42/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9d131253e04ee98795d6a02ba955b055/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9d131253e04ee98795d6a02ba955b055/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/323f1bf3e75a81494ffc6596607a01b2/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/323f1bf3e75a81494ffc6596607a01b2/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:26:9-43
+	android:allowBackup
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:29:9-40
+activity#com.example.android.sunshine.ui.list.MainActivity
+ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:32:9-37:20
+	android:label
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:34:13-45
+	android:launchMode
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:35:13-43
+	android:theme
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:36:13-53
+	android:name
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:33:13-49
+activity#com.example.android.sunshine.ui.detail.DetailActivity
+ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:40:9-52:20
+	android:parentActivityName
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:43:13-63
+	android:label
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:42:13-58
+	android:theme
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:44:13-44
+	android:name
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:41:13-53
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:45:13-47:56
+	android:value
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:47:17-54
+	android:name
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:46:17-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:48:13-51:29
+action#android.intent.action.MAIN
+ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:49:17-68
+	android:name
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:50:17-76
+	android:name
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:50:27-74
+service#com.example.android.sunshine.data.network.SunshineSyncIntentService
+ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:56:9-58:40
+	android:exported
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:57:13-67
+service#com.example.android.sunshine.data.network.SunshineFirebaseJobService
+ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:61:9-67:19
+	android:exported
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:62:13-68
+intent-filter#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:64:13-66:29
+action#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:65:17-83
+	android:name
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:65:25-81
+uses-sdk
+INJECTED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:1.3.1] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/adapters-1.3.1.aar/da55c62bbdb1c2a12806e2b7e602e4df/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:adapters:1.3.1] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/adapters-1.3.1.aar/da55c62bbdb1c2a12806e2b7e602e4df/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/library-1.3.1.aar/bc0b471610eb864fa463456214661a2d/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/library-1.3.1.aar/bc0b471610eb864fa463456214661a2d/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:preference-v7:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/bfd0668c40ce1c4a9bdf784828a7efeb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/bfd0668c40ce1c4a9bdf784828a7efeb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e949da85f00ac22cb0944bce655bb610/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e949da85f00ac22cb0944bce655bb610/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/818c7f9ff2074948d002264f1bf26716/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/818c7f9ff2074948d002264f1bf26716/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/80d2a93366871ba085aea9ef9d771723/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/80d2a93366871ba085aea9ef9d771723/AndroidManifest.xml:5:5-7:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/92339f32928c4328a343e32c8d8fce8b/AndroidManifest.xml:22:5-24:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/92339f32928c4328a343e32c8d8fce8b/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5130ee4842c0e534bbb5755191b9656d/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5130ee4842c0e534bbb5755191b9656d/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-v4:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/fb6ea0c556cc95e25b1eeed9840a9b3e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/fb6ea0c556cc95e25b1eeed9840a9b3e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/d45e03ccf3f8b024b7e287a684457106/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/d45e03ccf3f8b024b7e287a684457106/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b6a9fba514e0bf63a8184215dfa1d0cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b6a9fba514e0bf63a8184215dfa1d0cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4e415f8b6f69d223d5decec91eb9b21a/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4e415f8b6f69d223d5decec91eb9b21a/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fd64a6e6b7ff2c67b0c50b4872ac335c/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fd64a6e6b7ff2c67b0c50b4872ac335c/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/412ba1c8a20b06a4cca0c2280b427354/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/412ba1c8a20b06a4cca0c2280b427354/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/eb2676fe13f8dfa2bc7e075c20b70d42/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/eb2676fe13f8dfa2bc7e075c20b70d42/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9d131253e04ee98795d6a02ba955b055/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9d131253e04ee98795d6a02ba955b055/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/9d598a636424be4d94bdb53d2564682d/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/9d598a636424be4d94bdb53d2564682d/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/c0bfa9f0233acf46394d2d40c242c787/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/c0bfa9f0233acf46394d2d40c242c787/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/63b3792c5f3242ad539f1f8e63a87193/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/63b3792c5f3242ad539f1f8e63a87193/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/323f1bf3e75a81494ffc6596607a01b2/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/323f1bf3e75a81494ffc6596607a01b2/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e949da85f00ac22cb0944bce655bb610/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vamsitallapudi/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:preference-v7:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/bfd0668c40ce1c4a9bdf784828a7efeb/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e949da85f00ac22cb0944bce655bb610/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e949da85f00ac22cb0944bce655bb610/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/818c7f9ff2074948d002264f1bf26716/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/818c7f9ff2074948d002264f1bf26716/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/fb6ea0c556cc95e25b1eeed9840a9b3e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/fb6ea0c556cc95e25b1eeed9840a9b3e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/d45e03ccf3f8b024b7e287a684457106/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/d45e03ccf3f8b024b7e287a684457106/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b6a9fba514e0bf63a8184215dfa1d0cb/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b6a9fba514e0bf63a8184215dfa1d0cb/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4e415f8b6f69d223d5decec91eb9b21a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4e415f8b6f69d223d5decec91eb9b21a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fd64a6e6b7ff2c67b0c50b4872ac335c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fd64a6e6b7ff2c67b0c50b4872ac335c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/412ba1c8a20b06a4cca0c2280b427354/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/412ba1c8a20b06a4cca0c2280b427354/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/eb2676fe13f8dfa2bc7e075c20b70d42/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/eb2676fe13f8dfa2bc7e075c20b70d42/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9d131253e04ee98795d6a02ba955b055/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9d131253e04ee98795d6a02ba955b055/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:preference-v7:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/bfd0668c40ce1c4a9bdf784828a7efeb/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:preference-v7:26.1.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/bfd0668c40ce1c4a9bdf784828a7efeb/AndroidManifest.xml:24:13-51
+service#com.firebase.jobdispatcher.GooglePlayReceiver
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/92339f32928c4328a343e32c8d8fce8b/AndroidManifest.xml:32:9-39:19
+	android:exported
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/92339f32928c4328a343e32c8d8fce8b/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/92339f32928c4328a343e32c8d8fce8b/AndroidManifest.xml:35:13-93
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/92339f32928c4328a343e32c8d8fce8b/AndroidManifest.xml:33:13-73
+intent-filter#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/92339f32928c4328a343e32c8d8fce8b/AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/92339f32928c4328a343e32c8d8fce8b/AndroidManifest.xml:37:17-87
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/92339f32928c4328a343e32c8d8fce8b/AndroidManifest.xml:37:25-84
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/323f1bf3e75a81494ffc6596607a01b2/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/323f1bf3e75a81494ffc6596607a01b2/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/vamsitallapudi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/323f1bf3e75a81494ffc6596607a01b2/AndroidManifest.xml:26:13-58
